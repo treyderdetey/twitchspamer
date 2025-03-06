@@ -1,6 +1,8 @@
 # twitchspamer
 !!!!
 Do not click the "Spam from all accounts" button, otherwise they will all get shadowbanned.
+
+
 Не нажимай на кнопку спама со всех аккаунтов иначе они все отлетят в теневой
 !!!!
 
